@@ -1,0 +1,9 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=00401274
+eax=612748E0 ebx=00000000 ecx=0028AC00 edx=0028AC20 esi=612748E0 edi=611A1EDF
+ebp=0028AC68 esp=0028ABF0 program=C:\Users\Jarvis\Documents\home\Jarvis\codeforces\a.exe, pid 2740, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+0028AC68  00401274  (00000001, 0028AC90, 20010100, 612749B2)
+0028ACF8  61007535  (00000000, 0028CD78, 61006B20, 00000000)
+End of stack trace
